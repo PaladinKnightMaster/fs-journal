@@ -1,0 +1,12 @@
+## Quizzes
+  - [Quiz1](/quizzes/week01.md)
+  - [Quiz2](/quizzes/week02.md)
+  - [Quiz3](/quizzes/week03.md)
+  - [Quiz4](/quizzes/week04.md)
+  - [Quiz5](/quizzes/week05.md)
+  - [Quiz6](/quizzes/week06.md)
+  - [Quiz7](/quizzes/week07.md)
+  - [Quiz8](/quizzes/week08.md)
+  - [Quiz9](/quizzes/week09.md)
+  - [Quiz10](/quizzes/week10.md)
+  - [Quiz11](/quizzes/week11.md)
