@@ -38,35 +38,35 @@ Cascading Style Sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+the tag being selected(like the class or id), what is being applied, and the value of what is being applied
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+put three '*' instead of two
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body tag
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+dl, dd, dt
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+This puts the childeren of the tag that was given the display type 'flex' next to each other
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width and height
 ```
