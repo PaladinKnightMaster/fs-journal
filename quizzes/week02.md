@@ -3,12 +3,12 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+var(bad) let(good)
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+a set of instruction for the computer
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
