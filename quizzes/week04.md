@@ -8,7 +8,7 @@
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+an event listener is a tool that constantly checks something, commonly data in appstate, for any kind of change. and it will alert whatever it is menat to alert, typically functions.
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
