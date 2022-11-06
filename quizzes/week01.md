@@ -62,7 +62,7 @@ dl, dd, dt
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-This puts the childeren of the tag that was given the display type 'flex' next to each other
+This puts the children of the tag that was given the display type 'flex' next to each other
 ```
 
 **11.** What `CSS` properties affect the size of a box model?

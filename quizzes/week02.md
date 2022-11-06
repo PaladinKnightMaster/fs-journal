@@ -3,17 +3,17 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-var(bad) let(good) const(good)
+var(deprecated) let(good) const(good)
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-a set of instruction for the computer
+a set of instructions for the computer
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-single responsiby
+single responsibility
 open closed
 liskov substitution
 interface segregation
@@ -36,7 +36,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-let you = { name:"You", hair: true, friends: [them] }
+you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
